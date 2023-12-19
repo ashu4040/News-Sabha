@@ -1,0 +1,101 @@
+
+
+.api{
+margin-top: 5vh;
+border: 0px;
+
+}
+.card-header{
+    background-color: black;
+    color: white;
+}
+
+.card-body{
+    background-color: rgb(240, 240, 240);
+}
+
+.h1{
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 3vh;
+    
+}
+
+.card-body .btn{
+    background-color: black;
+    border: 0px;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+.card-header{
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+.nav{
+  color: #fff;
+  width: 100%;
+  display: flex;
+
+}
+ .nav a{
+  text-decoration: none;
+  color: white;
+font-size: 4vh;
+padding-right: 2vh;
+/* margin-left: 44vh; */
+ }
+.search{
+  padding: 3vh 0vh 0vh 0vh;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  display: flex;
+  align-items: center;
+}
+ .nav h1{
+  padding-left: 2vh;
+  /* font-weight: bold; */
+ }
+
+.search form input {
+  width: 50vw;
+  border: 1px solid black;
+  
+}
+
+.footer{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.right a{
+    text-decoration: none;
+    color: white;
+    padding-right: 2vh;
+}
+
+.left h5{
+    color: #fff;
+    height: fit-content;
+    padding-left: 2vh;
+    
+}
+.middle{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    gap: 2;
+
+}
+
+footer{
+    display:flex ;
+    align-items: center;
+    margin-top: 4vh;
+    height: 6vh;
+width: 100%;
+}
